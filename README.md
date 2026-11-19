@@ -215,11 +215,24 @@ entry another owner, which an account that is not root cannot make.
 returns.  It is not exported.  ["secure"](#secure) calls it for each change, so that a
 test can replace it.
 
+# BUGS
+
+Please report any bugs or feature requests on the bugtracker website
+[https://github.com/Troglodyne-Internet-Widgets/Path-Secure/issues](https://github.com/Troglodyne-Internet-Widgets/Path-Secure/issues)
+
+When submitting a bug or request, please include a test-file or a
+patch to an existing test-file that illustrates the bug or desired
+feature.
+
 # AUTHORS
 
 Current Maintainers:
 
 - George S. Baugh <george@troglodyne.net>
+
+# CONTRIBUTOR
+
+troglodyne-robot <trogbot@troglodyne.net>
 
 # COPYRIGHT AND LICENSE
 
